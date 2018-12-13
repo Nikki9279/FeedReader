@@ -24,7 +24,7 @@ download [zip](https://github.com/nikki158/FeedReader.git) Here or
 
 ```shell
 git clone https://github.com/nikki158/FeedReader.git
-cd feed-reader-testing
+cd FeedReader
 ```
 
 and run `index.html`
