@@ -20,7 +20,7 @@ In this project you are given a web-based application that reads RSS feeds.
 ## Installing
 
 No installation is needed.
-Visit [link](https://nikki158.github.io/FeedReader/) Here or
+download [zip](https://github.com/nikki158/FeedReader.git) Here or
 
 ```shell
 git clone https://github.com/nikki158/FeedReader.git
